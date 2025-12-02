@@ -25,7 +25,7 @@ Usando él [siguiente código](https://github.com/nicola-strappazzon/CH9141/tree
 ![](https://github.com/nstrappazzonc/CH9141/blob/main/img/demo01.png?raw=true)
 
 > [!NOTE]  
-> Cómo no soy experto de C y del funcionamiento del Bluetooth, y del chino. Use ChatGPT con buenos resultados.
+> Cómo no soy experto del lenguaje C, del funcionamiento del Bluetooth, y del chino. Use ChatGPT con muy buenos resultados.
 
 Aquí tienes una breve [documentación](https://github.com/nicola-strappazzon/CH9141/blob/main/doc/config.md) de como hacer el circuito y conectarte para probar.
 
