@@ -11,4 +11,4 @@ clean: ## Remove compiled files.
 	rm -f main
 
 build: ## Compile source code.
-	gcc main.c -o main -lbluetooth -o main
+	g++ main.c ble.c common.c -L$(PWD)/WCHBLElib/ -Wl,-rpath=$(PWD)/WCHBLElib -lbluetooth -lWCHBLElib -o main

@@ -18,6 +18,12 @@ De momento nos vamos a centrar en él [CH9141K](https://www.wch-ic.com/products/
 - Soporta diferentes modos: broadcast, host y slave.
 - Permite una comunicación asíncrona de hasta 5Mbps.
 
+## Ejemplo
+
+Usando el siguiente código de pruebas escrito en C permite la comunicación desde una Raspberry PI que se conecta por BLE al CH9141K y el MAC se conecta usando un CH340. Puedes ver cómo hay un intercambio de mensajes.
+
+![](https://github.com/nstrappazzonc/CH9141/blob/main/img/demo01.png?raw=true)
+
 ## Componentes
 
 Use los siguientes componentes para construir el circuito mínimo:
