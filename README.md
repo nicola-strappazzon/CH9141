@@ -24,6 +24,8 @@ Usando el [siguiente código](https://github.com/nicola-strappazzon/CH9141/tree/
 
 ![](https://github.com/nstrappazzonc/CH9141/blob/main/img/demo01.png?raw=true)
 
+Aquí tienes una breve [documentación](https://github.com/nicola-strappazzon/CH9141/blob/main/doc/config.md) de como hacer el circuito y conectarte para probar.
+
 ## Componentes
 
 Lo mejor de todo, es que solo necesitas 4 (cuatro) componentes para construir el circuito mínimo:
