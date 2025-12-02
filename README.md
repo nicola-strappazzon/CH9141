@@ -20,9 +20,12 @@ De momento nos vamos a centrar en él [CH9141K](https://www.wch-ic.com/products/
 
 ## Ejemplo
 
-Usando el [siguiente código](https://github.com/nicola-strappazzon/CH9141/tree/main/src/linux) de pruebas escrito en C permite la comunicación desde una Raspberry PI que se conecta por BLE al CH9141K y el MAC se conecta usando un CH340. Puedes ver cómo hay un intercambio de mensajes.
+Usando él [siguiente código](https://github.com/nicola-strappazzon/CH9141/tree/main/src/linux) escrito en C que permite la comunicación desde una Raspberry PI que a su vez se conecta por BLE al CH9141K y el MAC se conecta usando un CH340. Puedes ver cómo hay un intercambio de mensajes.
 
 ![](https://github.com/nstrappazzonc/CH9141/blob/main/img/demo01.png?raw=true)
+
+> [!NOTE]  
+> Cómo no soy experto de C y del funcionamiento del Bluetooth, y del chino. Use ChatGPT con buenos resultados.
 
 Aquí tienes una breve [documentación](https://github.com/nicola-strappazzon/CH9141/blob/main/doc/config.md) de como hacer el circuito y conectarte para probar.
 
