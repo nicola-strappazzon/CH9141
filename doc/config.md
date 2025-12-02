@@ -88,6 +88,6 @@ Listamos los comandos necesarios para el CH9141K, para obtener más detalle no o
 |AT BLESTA | Obtiene el estado del Bluetooth.                            |
 |AT DISCONN| Desconecta la actual conección.                             |
 |AT BLEMODE| Obtiene/Define el modo del Bluetooth.                       |
-|AT CCADD  | Obtiene la dirección MAC.                                   |
+|AT CCADD  | Obtiene la dirección MAC del device conectado.              |
 |AT NAME   | Obtiene/Define el nombre del chip, max 18 carácteres.       |
 |AT PNAME  | Obtiene/Define el nombre del dispositivo, max 18 carácteres.|
