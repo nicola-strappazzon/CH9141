@@ -1,6 +1,6 @@
 # CH9141
 
-Este es un IC que permite la comunicación Bluetooth a través de la comunicación serial de forma transparente. Lo impresionante de este chip es su simplicidad de conexión electrónica con apenas cuatro componentes y su simple configuración mediante comandos AT. Es diseñado y fabricado en china por [Jiangsu Heng Qin Ltd. (WCH)](http://www.wch-ic.com).
+Esta es una joya china sobrevalorada, este es un IC que permite la comunicación Bluetooth a través de la comunicación serial de forma transparente. Lo impresionante de este chip es su simplicidad de conexión electrónica con apenas cuatro componentes y su simple configuración mediante comandos AT. Es diseñado y fabricado en china por [Jiangsu Heng Qin Ltd. (WCH)](http://www.wch-ic.com).
 
 Existen diferentes formas de conectar el Bluetooth, en este repositorio nos centraremos en cómo se indica en el siguiente diagrama, para conocer más formas de conexión vea él [datasheet](https://github.com/nstrappazzonc/CH9141/blob/main/doc/CH9141DS1.PDF).
 
@@ -13,7 +13,7 @@ Puedes conseguir los IC o una placa de pruebas en la tienda oficial de [AliExpre
 De momento nos vamos a centrar en él [CH9141K](https://www.wch-ic.com/products/CH9141.html) que tiene unas prestaciones muy versátiles, entre ellas destacan las siguientes:
 
 - Soporta el estándar Bluetooth BLE4.2 que es de bajo consumo.
-- Llega hasta 100 metros de distancia.
+- Llega hasta 100 metros de distancia en condiciones ideales.
 - Soporta la configuración mediante comandos AT.
 - Soporta diferentes modos: broadcast, host y slave.
 - Permite una comunicación asíncrona de hasta 5Mbps.
@@ -26,7 +26,7 @@ Usando el siguiente código de pruebas escrito en C permite la comunicación des
 
 ## Componentes
 
-Use los siguientes componentes para construir el circuito mínimo:
+Lo mejor de todo, es que solo necesitas 4 (cuatro) componentes para construir el circuito mínimo:
 
 - Un IC CH9141K.
 - Oscilador externo de 32MHz 10PPM y 12pF.
