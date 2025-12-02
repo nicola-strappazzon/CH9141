@@ -26,6 +26,8 @@ Para conectarnos, el IC utiliza las siguientes propiedades de conexión por defe
 - Stop bits: 1
 - Parity: none
 
+Las siguientes capturas de pantalla de CoolTerm muestra cómo está configurado:
+
 ![](https://github.com/nstrappazzonc/CH9141/blob/main/img/config01.png?raw=true)
 
 ![](https://github.com/nstrappazzonc/CH9141/blob/main/img/config02.png?raw=true)
