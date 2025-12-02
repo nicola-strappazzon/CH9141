@@ -20,7 +20,7 @@ De momento nos vamos a centrar en él [CH9141K](https://www.wch-ic.com/products/
 
 ## Ejemplo
 
-Usando el siguiente código de pruebas escrito en C permite la comunicación desde una Raspberry PI que se conecta por BLE al CH9141K y el MAC se conecta usando un CH340. Puedes ver cómo hay un intercambio de mensajes.
+Usando el [siguiente código](https://github.com/nicola-strappazzon/CH9141/tree/main/src/linux) de pruebas escrito en C permite la comunicación desde una Raspberry PI que se conecta por BLE al CH9141K y el MAC se conecta usando un CH340. Puedes ver cómo hay un intercambio de mensajes.
 
 ![](https://github.com/nstrappazzonc/CH9141/blob/main/img/demo01.png?raw=true)
 

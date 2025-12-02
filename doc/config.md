@@ -26,6 +26,10 @@ Para conectarnos, el IC utiliza las siguientes propiedades de conexión por defe
 - Stop bits: 1
 - Parity: none
 
+![](https://github.com/nstrappazzonc/CH9141/blob/main/img/config01.png?raw=true)
+
+![](https://github.com/nstrappazzonc/CH9141/blob/main/img/config02.png?raw=true)
+
 ## Lo básico
 
 La sintaxis de los comandos AT que serán usadas es la siguiente:
